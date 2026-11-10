@@ -92,13 +92,7 @@ Free certified courses, podcasts & communities, books, and a curated toolbox of 
 
 ---
 
-## 📁 Repository Structure
+«إذا مات ابن آدم انقطع عمله إلا من ثلاث: صدقة جارية، أو علم يُنتفع به، أو ولد صالح يدعو له»
+إن نفعك هذا العمل، فلا تنسَنا من دعوة صالحة بظهر الغيب
 
-```
-UIUX-Roadmap/
-├── README.md
-├── RESOURCES.md
-├── phase-1-beginner/        # Weeks 1–8
-├── phase-2-intermediate/    # Weeks 9–18
-└── phase-3-advanced/        # Weeks 19–25
-```
+
