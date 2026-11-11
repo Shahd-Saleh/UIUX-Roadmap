@@ -94,5 +94,16 @@ Free certified courses, podcasts & communities, books, and a curated toolbox of 
 
 «إذا مات ابن آدم انقطع عمله إلا من ثلاث: صدقة جارية، أو علم يُنتفع به، أو ولد صالح يدعو له»
 إن نفعك هذا العمل، فلا تنسَنا من دعوة صالحة بظهر الغيب
+---
+
+<div align="center">
+
+### Let's Connect!
+
+<a href="www.linkedin.com/in/shahd-saleh-a1243b348">
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 
