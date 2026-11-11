@@ -100,7 +100,7 @@ Free certified courses, podcasts & communities, books, and a curated toolbox of 
 
 ### Let's Connect!
 
-<a href="www.linkedin.com/in/shahd-saleh-a1243b348">
+<a href="https://www.linkedin.com/in/shahd-saleh-a1243b348/">
   <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
