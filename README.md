@@ -1,6 +1,6 @@
 # 🎨 UI/UX Roadmap 2026
 
-> A 25-week, project-based roadmap that takes you from zero to a job-ready UI/UX Designer — Beginner → Intermediate → Advanced.
+> A 25-week, project-based roadmap : Beginner → Intermediate → Advanced.
 
 **[📚 Resources](RESOURCES.md)** · Phase 1: Weeks 1–8 · Phase 2: Weeks 9–18 · Phase 3: Weeks 19–25
 
